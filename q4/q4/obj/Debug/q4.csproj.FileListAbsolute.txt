@@ -1,0 +1,8 @@
+C:\MCA\SEM 2\.Net\Ass1\q4\q4\bin\Debug\q4.exe.config
+C:\MCA\SEM 2\.Net\Ass1\q4\q4\bin\Debug\q4.exe
+C:\MCA\SEM 2\.Net\Ass1\q4\q4\bin\Debug\q4.pdb
+C:\MCA\SEM 2\.Net\Ass1\q4\q4\obj\Debug\q4.Form1.resources
+C:\MCA\SEM 2\.Net\Ass1\q4\q4\obj\Debug\q4.Properties.Resources.resources
+C:\MCA\SEM 2\.Net\Ass1\q4\q4\obj\Debug\q4.csproj.GenerateResource.Cache
+C:\MCA\SEM 2\.Net\Ass1\q4\q4\obj\Debug\q4.exe
+C:\MCA\SEM 2\.Net\Ass1\q4\q4\obj\Debug\q4.pdb
