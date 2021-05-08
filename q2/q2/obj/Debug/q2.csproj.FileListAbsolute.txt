@@ -1,0 +1,9 @@
+C:\MCA\SEM 2\.Net\Ass1\q2\q2\bin\Debug\q2.exe.config
+C:\MCA\SEM 2\.Net\Ass1\q2\q2\obj\Debug\q2.csprojResolveAssemblyReference.cache
+C:\MCA\SEM 2\.Net\Ass1\q2\q2\obj\Debug\q2.Form1.resources
+C:\MCA\SEM 2\.Net\Ass1\q2\q2\obj\Debug\q2.Properties.Resources.resources
+C:\MCA\SEM 2\.Net\Ass1\q2\q2\obj\Debug\q2.csproj.GenerateResource.Cache
+C:\MCA\SEM 2\.Net\Ass1\q2\q2\bin\Debug\q2.exe
+C:\MCA\SEM 2\.Net\Ass1\q2\q2\bin\Debug\q2.pdb
+C:\MCA\SEM 2\.Net\Ass1\q2\q2\obj\Debug\q2.exe
+C:\MCA\SEM 2\.Net\Ass1\q2\q2\obj\Debug\q2.pdb
